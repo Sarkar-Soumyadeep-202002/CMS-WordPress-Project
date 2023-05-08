@@ -4,10 +4,10 @@
 - The navigation bar includes links to five different pages:
 
   - [Home](https://cp3402-team-a.com/) 
-  - About Us  
-  - Registration
-  - Schedule
-  - Contact Us
+  - [About Us](https://cp3402-team-a.com/about-us-2/)  
+  - [Registration](https://cp3402-team-a.com/registration/)
+  - [Schedule](https://cp3402-team-a.com/schedule/)
+  - [Contact Us](https://cp3402-team-a.com/contact-us/)
 
 - The Website Logo includes a link to the home page.
 - 
