@@ -10,4 +10,7 @@
   - [Contact Us](https://cp3402-team-a.com/contact-us/)
 
 - The Website Logo includes a link to the home page.
+- The Footer includes the contact information for General Enquires.
+
+# Files
 - 
