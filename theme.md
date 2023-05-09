@@ -15,7 +15,7 @@
 # Files
 
 ## Relevant Files
-- header.php: This file 
+- header.php: This file contains the code for creating the header of the theme. The following snippet of code is used to 
 ```php
 <nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'baizonn' ); ?></button>
@@ -104,3 +104,4 @@ abbr[title] {
 - single.php
 - composer.json
 - package.json
+# Design Decisions
