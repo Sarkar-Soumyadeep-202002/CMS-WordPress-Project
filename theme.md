@@ -12,7 +12,9 @@
 - The Website Logo includes a link to the home page.
 - The Footer includes the contact information for General Enquires.
 
-# Important Files
+# Files
+
+## Relevant Files
 - header.php: This file 
 ```php
 <nav id="site-navigation" class="main-navigation">
@@ -92,3 +94,13 @@ abbr[title] {
 	text-decoration: underline dotted;
 }
 ```
+## Supporting files
+- 404.php
+- archive.php
+- comments.php
+- index.php
+- search.php
+- sidebar.php
+- single.php
+- composer.json
+- package.json
