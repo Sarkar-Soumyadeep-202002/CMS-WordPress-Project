@@ -12,7 +12,7 @@
 - The Website Logo includes a link to the home page.
 - The Footer includes the contact information for General Enquires.
 
-# Files
+# Important Files
 - header.php: This file 
 ```php
 <nav id="site-navigation" class="main-navigation">
