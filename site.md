@@ -1,4 +1,4 @@
-# Instuction for This Markdown File
+# Instruction for This Markdown File
 
 Think about someone (perhaps the client) who already knows WordPress taking over the running of the site itself: how do they add new content – as a page or a post? In what category? You may have used a plugin for a calendar of events or something, which needs to be described. Do not recreate WordPress documentation, but clearly explain to the client’s site maintainer how this particular site is organised and can be updated.
 _Delete above instructions after finalizing the document._
@@ -27,8 +27,8 @@ Plugins used to Baizonn Learning Center are as follow:
 - [Team Section - Version 1.0.7](https://wordpress.org/plugins/team-section/)
 - [Smart Slider 3 - Version 3.5.1.14](https://wordpress.org/plugins/smart-slider-3/)
 - [WPForm Lite - Version 1.8.1.2](https://wordpress.org/plugins/wpforms-lite/)
-- [Timetable and Event Schedule Version 2.4.9](https://wordpress.org/plugins/mp-timetable/)
-- [WP Mail SMTP Version 3.8.0](https://wordpress.org/plugins/wp-mail-smtp/)
+- [Timetable and Event Schedule - Version 2.4.9](https://wordpress.org/plugins/mp-timetable/)
+- [WP Mail SMTP - Version 3.8.0](https://wordpress.org/plugins/wp-mail-smtp/)
 
 ### Elementor Guide
 _Assigned to Fred. Delete this sentence after adding the instruction._
