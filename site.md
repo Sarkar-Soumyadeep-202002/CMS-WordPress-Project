@@ -40,7 +40,11 @@ _Assigned to Wai Yar Aung. Delete this sentence after adding the instruction._
 _Assigned to Min Htet Aung. Delete this sentence after adding the instruction._
 
 ### Adding/Editing Teachers' Profile - Team Section Guide
-_Assigned to Kaung. Delete this sentence after adding the instruction._
+After installing this plugin on the admin panel, it is added into built-in content management tool catalogues. If we add this plugin, it will show the sample team showcase where we can click on it to do simple customization works such as replacing the image/ profile details. This is how site maintainers can update the contents. Moreover, [The official documentation](https://bblockswp.com/docs/team-block/) provides a comprehensive tutorial on how to work with the plugin. Here are design rules that site maintainers should follow:
+- Team members' profile pictures should not have rounded-edge for the sake of design consistency when it comes to images.
+- The text about teacher's brief should be at most 50 words since long text will lengthen the column, thereby disrupting the design aesthetics.
+- Although the sample team showcase provides a feature to add social media links, it should be removed. One potential concern is that providing such links could inadvertently encourage visitors to directly contact the showcased teachers, which could create conflicts of interest with the organization's goals.
+It is to note that the design rules may change as specified by the design team.
 
 ### Adding/Editing Image Slider - Smart Slider 3 Guide
 _Assigned to Fred. Delete this sentence after adding the instruction._
