@@ -105,3 +105,4 @@ abbr[title] {
 - composer.json
 - package.json
 # Design Decisions
+- The Company logo is on the left side of the header 
