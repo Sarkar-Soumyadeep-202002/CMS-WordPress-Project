@@ -44,6 +44,7 @@ After installing this plugin on the admin panel, it is added into built-in conte
 - Team members' profile pictures should not have rounded-edge for the sake of design consistency when it comes to images.
 - The text about teacher's brief should be at most 50 words since long text will lengthen the column, thereby disrupting the design aesthetics.
 - Although the sample team showcase provides a feature to add social media links, it should be removed. One potential concern is that providing such links could inadvertently encourage visitors to directly contact the showcased teachers, which could create conflicts of interest with the organization's goals.
+
 It is to note that the design rules may change as specified by the design team.
 
 ### Adding/Editing Image Slider - Smart Slider 3 Guide
