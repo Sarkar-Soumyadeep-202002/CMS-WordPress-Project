@@ -13,7 +13,7 @@
 - The Footer includes the contact information for General Enquires.
 
 # Files
-- header.php
+- header.php: This file 
 ```php
 <nav id="site-navigation" class="main-navigation">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'baizonn' ); ?></button>
@@ -63,4 +63,32 @@ add_theme_support( 'automatic-feed-links' );
 		* @link https://developer.wordpress.org/themes/functionality/featured-images-post-thumbnails/
 		*/
 	add_theme_support( 'post-thumbnails' );
+```
+- page.php: This file contains the code for displaying all the pages by default. The following snippet of code is used to display the pages.
+```php
+<main id="primary" class="site-main">
+
+		<?php
+		while ( have_posts() ) :
+			the_post();
+
+			get_template_part( 'template-parts/content', 'page' );
+
+			// If comments are open or we have at least one comment, load up the comment template.
+			if ( comments_open() || get_comments_number() ) :
+				comments_template();
+			endif;
+
+		endwhile; // End of the loop.
+		?>
+
+	</main><!-- #main -->
+```
+- style.css: This file contains the style templates. The following snippet of code is used for adding the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+```css
+abbr[title] {
+	border-bottom: none;
+	text-decoration: underline;
+	text-decoration: underline dotted;
+}
 ```
