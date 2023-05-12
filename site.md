@@ -51,7 +51,17 @@ It is to note that the design rules may change as specified by the design team.
 _Assigned to Fred. Delete this sentence after adding the instruction._
 
 ### Adding/Editing Forms - WP Form Guide
-_Assigned to Min Htet Aung. Delete this sentence after adding the instruction._
+WPForms is a WordPress plugin that lets you easily build website contact forms. It’s an easy-to-use online form builder for WordPress websites that allows you to create smart forms in minutes without writing any code or hiring a developer. WPForms is full of useful features to help your small business earn more money online. 
+You can connect your forms to tons of popular email marketing services for easy marketing automation. Providers include Constant Contact, Mailchimp, Campaign Monitor, MailerLite, and more. With the Elite plan, you can connect your forms to CRMs like ActiveCampaign, HubSpot, and Salesforce. WPForms is an incredibly affordable plugin when you take a look at all the money-making features it offers.
+To edit WPForms as a site administrator, you can access plugin-wide settings in WPForms by going to WPForms » Settings in the left WordPress menu. You can edit the wpforms by doing the following steps-
+_Log in to your WordPress dashboard and go to the WPForms page._
+_Find the form that you want to edit and hover your mouse over it. You will see several options appear, including Edit, Duplicate, Delete, and View._
+_Click the Edit button. This will take you to the WPForms editor, where you can make changes to your form._
+_You can add or remove form fields by dragging and dropping them from the left-hand side of the screen. You can also customize the field settings by clicking on each field._
+_Use the Form Settings tab to customize the form's general settings, such as the form name, description, and confirmation message._
+_Use the Notifications tab to customize the email notifications that are sent to you and your users when a form is submitted._
+_Use the Confirmations tab to customize the message that users see after they submit a form._
+_When you're done making changes, click the Save button to save your changes._
 
 ### Adding/Editing Timetable - Timetable and Event Schedule Guide
 _Assigned to Ryan. Delete this sentence after adding the instruction._
