@@ -34,7 +34,11 @@ Plugins used to Baizonn Learning Center are as follow:
 _Assigned to Fred. Delete this sentence after adding the instruction._
 
 ### WP Encryption Guide
-_Assigned to Wai Yar Aung. Delete this sentence after adding the instruction._
+The WP Encryption plugin creates an SSL certificate for your website, registers it, and checks its domain. It can give advantages for following reasons:
+- SEO Advantage: SSL-enabled sites perform better in search results on major search engines like Google than non-SSL sites. increasing the amount of organic visitors to your website.
+- Data encryption: Personal information and credit card numbers are securely encrypted during transmission between a server and a visitor on an SSL website.
+- Trust: Google Chrome flags non-SSL websites as "insecure," making visitors feel uneasy.
+- Authentic: The HTTPS green padlock is a representation of security, trust, and authenticity.
 
 ### WP Mail SMTP Guide
 WP SMTP is a WordPress plugin that allows you to configure and send emails through an SMTP server instead of the default PHP mail function. SMTP stands for Simple Mail Transfer Protocol, and it is a protocol used to send and receive emails over the internet.[The official instruction video for setting up WP SMTP is here.](https://youtu.be/A4IClPHbg3k)
