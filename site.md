@@ -39,6 +39,21 @@ The WP Encryption plugin creates an SSL certificate for your website, registers 
 - Data encryption: Personal information and credit card numbers are securely encrypted during transmission between a server and a visitor on an SSL website.
 - Trust: Google Chrome flags non-SSL websites as "insecure," making visitors feel uneasy.
 - Authentic: The HTTPS green padlock is a representation of security, trust, and authenticity.
+The followings are the steps that needed to perfrom while installing:
+- Using hostgator, we have to create domain and sites that are available with the name (.com).
+- After creating succesful domain and sites, need to choose the security function available for further process.
+- At the wordpress plugins, we have to install WP Encryption - One Click SSL & Force HTTPS Version 6.0.
+- Security fucntions checks from the hostgator allows WP Encryption fully worked on it.
+By using WP Encryption plugins, we can use these followings features:
+- Generate a free SSL certificate and check the ownership of the domain
+- HTTPS provides secure webmail and email.
+- Download the created intermediate certificate, key, and SSL certificate files.
+- With one click, force HTTPS and enable site-wide HTTPS 301 redirection
+- Redirect loop fixes for Cloudflare, StackPath, load balancers, and reverse proxies are part of HTTPS redirection.
+- Health page for SSL - Control different SSL & Security features, such as the HSTS stringent transport security Header and HttpOnly secure cookies, among others, and keep track of your SSL score.
+- Make sure that crucial security headers like X-XSS-Protection, X-Content-Type-Options, and Referrer-Policy are enabled.
+- Enable the fixer for mixed material and unsecure content.
+- Prior to the SSL certificate expiration, there is SSL monitoring and automatic email notice.
 
 ### WP Mail SMTP Guide
 WP SMTP is a WordPress plugin that allows you to configure and send emails through an SMTP server instead of the default PHP mail function. SMTP stands for Simple Mail Transfer Protocol, and it is a protocol used to send and receive emails over the internet.[The official instruction video for setting up WP SMTP is here.](https://youtu.be/A4IClPHbg3k)
