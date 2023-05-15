@@ -41,7 +41,7 @@ The WP Encryption plugin creates an SSL certificate for your website, registers 
 - Authentic: The HTTPS green padlock is a representation of security, trust, and authenticity.
 
 
-The followings are the steps that needed to perfrom while installing:
+The followings are the steps that needed to perform while installing:
 - Using hostgator, we have to create domain and sites that are available with the name (.com).
 - After creating succesful domain and sites, need to choose the security function available for further process.
 - At the wordpress plugins, we have to install WP Encryption - One Click SSL & Force HTTPS Version 6.0.
