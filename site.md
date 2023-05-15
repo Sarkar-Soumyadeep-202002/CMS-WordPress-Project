@@ -37,7 +37,16 @@ _Assigned to Fred. Delete this sentence after adding the instruction._
 _Assigned to Wai Yar Aung. Delete this sentence after adding the instruction._
 
 ### WP Mail SMTP Guide
-_Assigned to Min Htet Aung. Delete this sentence after adding the instruction._
+WP SMTP is a WordPress plugin that allows you to configure and send emails through an SMTP server instead of the default PHP mail function. SMTP stands for Simple Mail Transfer Protocol, and it is a protocol used to send and receive emails over the internet.[The official instruction video for setting up WP SMTP is here.](https://youtu.be/A4IClPHbg3k)
+WP SMTP plugin provides an easy way to configure the SMTP settings for your WordPress site, including the SMTP server, port, encryption method, authentication, and more. With WP SMTP, you can ensure that your emails are delivered reliably and securely, with improved deliverability and fewer chances of being flagged as spam.
+The Steps to set up WP SMTP plugin is as follows :
+- Install and activate the WP SMTP plugin from the WordPress plugin repository.
+- Go to the WP SMTP plugin settings page by clicking on WP SMTP > Settings in the WordPress dashboard.
+- On the settings page, enter your SMTP server details, including the hostname, port number, and encryption method. Your email service provider should be able to provide you with this information. Some common SMTP server providers include Gmail, Yahoo, and Outlook.
+- If your SMTP server requires authentication, enter your username and password in the corresponding fields. You may also need to select the authentication method, such as plain text or login.
+- If you want to send a test email to ensure that your SMTP settings are working correctly, scroll down to the "Email Test" section and enter your email address. Click the "Send Test Email" button to send a test email.
+- If the test email is successful, you will see a confirmation message. If there are any errors, WP SMTP will provide you with details about the error.
+- Save your settings by clicking the "Save Settings" button.
 
 ### Adding/Editing Teachers' Profile - Team Section Guide
 After installing this plugin on the admin panel, it is added into built-in content management tool catalogues. If we add this plugin, it will show the sample team showcase where we can click on it to do simple customization works such as replacing the image/ profile details. This is how site maintainers can update the contents. Moreover, [The official documentation](https://bblockswp.com/docs/team-block/) provides a comprehensive tutorial on how to work with the plugin. Here are design rules that site maintainers should follow:
