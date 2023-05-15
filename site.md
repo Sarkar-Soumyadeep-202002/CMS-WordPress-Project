@@ -39,11 +39,15 @@ The WP Encryption plugin creates an SSL certificate for your website, registers 
 - Data encryption: Personal information and credit card numbers are securely encrypted during transmission between a server and a visitor on an SSL website.
 - Trust: Google Chrome flags non-SSL websites as "insecure," making visitors feel uneasy.
 - Authentic: The HTTPS green padlock is a representation of security, trust, and authenticity.
+
+
 The followings are the steps that needed to perfrom while installing:
 - Using hostgator, we have to create domain and sites that are available with the name (.com).
 - After creating succesful domain and sites, need to choose the security function available for further process.
 - At the wordpress plugins, we have to install WP Encryption - One Click SSL & Force HTTPS Version 6.0.
 - Security fucntions checks from the hostgator allows WP Encryption fully worked on it.
+
+
 By using WP Encryption plugins, we can use these followings features:
 - Generate a free SSL certificate and check the ownership of the domain
 - HTTPS provides secure webmail and email.
