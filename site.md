@@ -79,8 +79,8 @@ After installing this plugin on the admin panel, it is added into built-in conte
 
 It is to note that the design rules may change as specified by the design team.
 
-### Adding/Editing Image Slider - Smart Slider 3 Guide
-_Assigned to Fred. Delete this sentence after adding the instruction._
+### Smart Slider 3 Guide
+The most capable and user-friendly WordPress plugin for creating sliders, which was never before conceivable, is Smart Slider 3. fully SEO-optimized, responsive, and compatible with any WordPress theme. Without any code, make stunning sliders and tell tales.
 
 ### Adding/Editing Forms - WP Form Guide
 WPForms is a WordPress plugin that lets you easily build website contact forms. It’s an easy-to-use online form builder for WordPress websites that allows you to create smart forms in minutes without writing any code or hiring a developer. WPForms is full of useful features to help your small business earn more money online.[The official instruction video for setting up WP Form is here.](https://youtu.be/o2nE1P74WxQ) You can connect your forms to tons of popular email marketing services for easy marketing automation. 
