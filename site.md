@@ -80,7 +80,16 @@ After installing this plugin on the admin panel, it is added into built-in conte
 It is to note that the design rules may change as specified by the design team.
 
 ### Smart Slider 3 Guide
-The most capable and user-friendly WordPress plugin for creating sliders, which was never before conceivable, is Smart Slider 3. fully SEO-optimized, responsive, and compatible with any WordPress theme. Without any code, make stunning sliders and tell tales.
+The most capable and user-friendly WordPress plugin for creating sliders, which was never before conceivable, is Smart Slider 3. fully SEO-optimized, responsive, and compatible with any WordPress theme. Without any code, make stunning sliders and tell tales. You can edit the Smart Slider 3 by doing the following steps-
+
+- Log in to your WordPress dashboard, find the Smart Slider 3 on the left side of the screen and click it.
+- Pick create new slide.
+- Then you can choose what do want in your slide and edit the background on every slide.
+- Once you are done click save. Then go to the website and press edit page.
+- In the edit page screen you can add the smart slider when you click the [+] on the screen.
+- Press browse all then search Smart Slider 3 and click it.
+- then press the update button on the top right part of the screen and you can see it on ur website.
+
 
 ### Adding/Editing Forms - WP Form Guide
 WPForms is a WordPress plugin that lets you easily build website contact forms. It’s an easy-to-use online form builder for WordPress websites that allows you to create smart forms in minutes without writing any code or hiring a developer. WPForms is full of useful features to help your small business earn more money online.[The official instruction video for setting up WP Form is here.](https://youtu.be/o2nE1P74WxQ) You can connect your forms to tons of popular email marketing services for easy marketing automation. 
