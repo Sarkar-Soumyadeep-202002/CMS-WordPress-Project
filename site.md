@@ -105,4 +105,7 @@ To edit WPForms as a site administrator, you can access plugin-wide settings in 
 - When you're done making changes, click the Save button to save your changes.
 
 ### Adding/Editing Timetable - Timetable and Event Schedule Guide
-_Assigned to Ryan. Delete this sentence after adding the instruction._
+MotoPress Timetable and Event Schedule is an all-around organizer plugin developed to help you create and manage online schedules for a single or multiple events, customize the appearance of each event, add date, time, description and display all the needed items in a carefully-crafted timetable. It also comes with Upcoming events widget.
+- Plugin Demo
+- Documentation
+- Free Theme
