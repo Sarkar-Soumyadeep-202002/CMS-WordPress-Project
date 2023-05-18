@@ -106,7 +106,15 @@ To edit WPForms as a site administrator, you can access plugin-wide settings in 
 
 ### Adding/Editing Timetable - Timetable and Event Schedule Guide
 MotoPress Timetable and Event Schedule is an all-around organizer plugin developed to help you create and manage online schedules for a single or multiple events, customize the appearance of each event, add date, time, description and display all the needed items in a carefully-crafted timetable. The event calendar plugin can be used to schedule a variety of events, including lessons, workout sessions, celebrations, conferences, ceremonies, case studies, formal parties, concerts, and much more. It is useful for managing event schedules on the backend, and it is very user-friendly. You can edit the schedule by the following steps:
-- Log in to your WordPress dashboard and go to the timetable and click Columns.
-- Add Monday to Friday on the Columns page.
-- Next, switch to the Add Event page. Choose columns, start/end time, title, background, and text color for the new event.
-- After the production is complete, return to the schedule page to add a timetable.
+- Log in to your WordPress dashboard and Look for the "Timetable" option in the navigation menu on the left-hand side and click on it.
+- On the Timetable page, locate and click on the "Columns" tab. This is where you can manage the columns displayed in your timetable.
+- To add Monday to Friday as columns, look for the option to add a new column and click on it. A dialog box or form will appear where you can enter the details of the new column.
+- Next, seitching to Add Evant. In the navigation menu on the left-hand side, click on "Add Event" or a similar option related to adding events to your timetable.
+- On the Add Event page, you'll find various fields to enter the details of the new event. Look for the "Columns" field, where you can choose the column(s) in which you want to place the event. Select the appropriate column(s) for your event, based on the days of the week you want it to appear on.
+- Fill in the start and end time of the event in the respective fields. Enter the title or name of the event in the designated field.
+To customize the appearance of the event, locate the options for background color and text color. Choose the desired colors for your event to make it visually distinguishable on the timetable.
+- Once you've entered all the necessary details and customized the event to your liking, click on the "Save" or "Publish" button to create the event.
+- After the production is complete and you have saved the event, navigate back to the schedule page or the main timetable page.
+- On the schedule page, you will be able to add timetable layout. Click on it to access the timetable editing interface.
+- In the timetable editing interface, you can add the timetable you created earlier. Select the appropriate options to include the desired timetable with the columns and events you've set up.
+- Once you've added the timetable, save your changes. The timetable should now be displayed on your website, reflecting the columns you added and the event you created.
