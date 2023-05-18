@@ -108,5 +108,5 @@ To edit WPForms as a site administrator, you can access plugin-wide settings in 
 MotoPress Timetable and Event Schedule is an all-around organizer plugin developed to help you create and manage online schedules for a single or multiple events, customize the appearance of each event, add date, time, description and display all the needed items in a carefully-crafted timetable. The event calendar plugin can be used to schedule a variety of events, including lessons, workout sessions, celebrations, conferences, ceremonies, case studies, formal parties, concerts, and much more. It is useful for managing event schedules on the backend, and it is very user-friendly. You can edit the schedule by the following steps:
 - Log in to your WordPress dashboard and go to the timetable and click Columns.
 - Add Monday to Friday on the Columns page.
-- Next, switch to the Add Event page. Choose a time, title, and background color for the new event.
+- Next, switch to the Add Event page. Choose columns, start/end time, title, background, and text color for the new event.
 - After the production is complete, return to the schedule page to add a timetable.
